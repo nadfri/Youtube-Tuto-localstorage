@@ -1,4 +1,4 @@
-# tuto-localstorage
+# tuto-localstorage de ma chaine Youtube
 Tuto Sur le localStorage pour débutant
 # Lien de l'app
 https://nadfri.github.io/tuto-localstorage/
